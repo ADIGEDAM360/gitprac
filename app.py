@@ -12,7 +12,11 @@ def outer2(func):
     return inner2()
 
 @outer
-def trail():
-    pass
+def trail(a =10 , b = 20):
+    print( c = a + b)
+    return c
+    
+
+
  
  
