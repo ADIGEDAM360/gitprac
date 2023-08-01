@@ -16,3 +16,5 @@ def trail(a, b ):
     c = a+b
     return c
  
+def division (a,b):
+    return a/b
